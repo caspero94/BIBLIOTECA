@@ -1,7 +1,7 @@
 
 # 📚 **Biblioteca de Contenidos DAW & DAM**
 
-![banner](https://via.placeholder.com/1200x300.png?text=Biblioteca+DAW+%26+DAM)  
+![banner](https://via.placeholder.com/1200x100.png/1f2426/e4b2ad?text=Biblioteca+DAW+%26+DAM)  
 *Todo el contenido que necesitas para tus clases de Desarrollo de Aplicaciones Web y Multiplataforma, en un solo lugar.*
 
 ---
