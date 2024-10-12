@@ -7,9 +7,6 @@
 //PARA COMENTAR LÍNEAS USAMOS //
 /*PARA COMENTAR VARIAS LÍNEAS USAMOS */
 
-package _1curso_java; //Creamos paquete de java y lo nombramos con _1curso_java//
- /*Un paquete es una forma de organizar las clases en Java. En este caso, creaste el paquete llamado _1curso_java. 
-Los paquetes también evitan conflictos de nombres cuando tienes muchas clases.*/
 
 
 public class HolaMundo {

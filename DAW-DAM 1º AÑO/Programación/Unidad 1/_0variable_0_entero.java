@@ -3,9 +3,6 @@
 /*VARIABLES PRIMITIVAS
 Una Variable es un espacio de memoria que almacena un valor, es decir como si tuvieramos una caja y guardamos algo*/
 
-package _1curso_java;
-
-
 public class _0variable_0_entero {
         public static void main(String[] args) {
         // Función principal, todo el código empezará desde el main

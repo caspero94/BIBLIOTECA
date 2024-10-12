@@ -1,4 +1,3 @@
-package _1curso_java;
 
 public class _1variable_decimalbis {
     public static void main(String[] args) {
