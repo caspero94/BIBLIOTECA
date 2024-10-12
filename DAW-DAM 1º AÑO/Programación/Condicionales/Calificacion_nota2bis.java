@@ -1,7 +1,7 @@
 /*
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
-
+*/
 import java.util.Scanner;  // Importa la clase Scanner desde el paquete java.util, que permite leer la entrada del usuario.
 
 public class Calificacion_nota2bis {  // Definición de la clase principal "Calificacion_nota2".
