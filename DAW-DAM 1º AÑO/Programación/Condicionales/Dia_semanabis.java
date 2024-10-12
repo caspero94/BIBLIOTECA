@@ -2,7 +2,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package _1Condicionales;  // Declaración del paquete donde se encuentra la clase.
 
 import java.util.Scanner;  // Importa la clase Scanner desde el paquete java.util, para poder leer la entrada del usuario.
 

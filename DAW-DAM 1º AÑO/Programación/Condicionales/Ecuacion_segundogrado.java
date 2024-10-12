@@ -9,7 +9,6 @@ https://www.manualweb.net/java/operadores-condicionales-java/
 
 */
 
-package _1Condicionales;
 
 import java.util.*;/*El astericos en los java import tiene la funcionalidad de hacer visible todos los miembros de una coleccion
 sin tener que usar el nombre del identificador completo*/

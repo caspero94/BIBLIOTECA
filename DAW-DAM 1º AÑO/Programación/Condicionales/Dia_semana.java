@@ -8,8 +8,6 @@ instanceof	Operador instanceof
 https://www.manualweb.net/java/operadores-condicionales-java/
 */
 
-package _1Condicionales;
-
 import java.util.Scanner;
 
 public class Dia_semana {

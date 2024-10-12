@@ -3,7 +3,6 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
 
-package _1Condicionales;  // Declaración del paquete, que agrupa clases relacionadas en Java.
 
 // Importa la clase Scanner, que permite la entrada de datos desde el teclado.
 import java.util.Scanner;
